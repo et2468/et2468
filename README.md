@@ -1,6 +1,7 @@
 # 안녕하세요 주니어개발자 최성민입니다.
 
 [![성민's GitHub stats](https://github-readme-stats.vercel.app/api?username=et2468)](https://github.com/anuraghazra/github-readme-stats)
+
 <div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
 <!-- font-size 를 조절하면 원하는 크기로 글자를 조절할 수 있습니다.-->
   <!-- Designed and developed in-house at Oreuda (https://oreuda.kr) -->
@@ -9,17 +10,6 @@
     <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=et2468 width="280" height="140" alt="baekjoon" />
     <img src=http://mazandi.herokuapp.com/api?handle=et2468&theme=warm width="285" height="140" alt="solved" />
   </div>
-
-
-  <div key="2">
-    <img src=https://github-readme-stats.vercel.app/api?username=et2468&show_icons=true&theme=cobalt width="350" height="150" alt="githubStats" />
-  </div>
-
-
-  <div key="3">
-    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=et2468&layout=compact&theme=dark width="280" height=180 alt="MUL" />
-  </div>
-
 
   <div key="4">
   <h3 style ="font-size : 2em; font-weight:700;">🍀Tech Stack🍀</h3>
@@ -42,6 +32,7 @@
   </div>
 
 
+
   <div key="6">
     <a href = "https://oreuda.kr/">
       <img
@@ -52,3 +43,4 @@
   </div>
 
 </div>
+
