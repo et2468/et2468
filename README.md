@@ -1,14 +1,20 @@
-<h2><div align="center"> 🙋‍♂ Introduction</div></h3> <br>
-<div align="center">제가 주로 사용하는 백엔드 프레임워크는 django와 springboot입니다. <br>
-    이를 통해 웹 애플리케이션의 백엔드를 구축하고 데이터베이스와의 효율적인 상호작용을 달성할 수 있습니다. <br>
-	MySQL, PostgreSQL과 같은 관계형 데이터베이스와 NoSQL 데이터베이스인 redis를 다룰 수 있습니다. <br>
-    Git을 사용한 버전 관리, 팀과의 협업을 위한 도구(GitHub, Jira, notion)를 활용할 수 있습니다. <br>
-    마지막으로, 훌륭한 백엔드 개발자로 성장하기 위해 지속적인 학습과 개발을 추구하고 있습니다.<br>
-    제 능력과 열정을 통해 회사의 성장과 발전에 기여하고 싶습니다.</div><br>
+<h2><div> 🙋‍♂ Introduction</div></h3> <br>
+<div>개발에 흥미를 가져 삼성 청년 SW 아카데미 8기를 수료하였습니다.
+
+개발업무가 즐겁고 계속해서 배우고 싶습니다.
+- SQLD 자격증을 취득하며 DB와 SQL에 대해 이해하였습니다.
+- 엔티티와 테이블 매핑, JPA와 SQL의 관계에 대해 학습하였습니다.
+- SpringBoot를 학습하며 DI, MVC 구조, HTTP 처리 방법을 숙지하였습니다.
+
+요구사항을 분석하여 테이블을 설계할수 있고, 
+SpringBoot와 JPA를 활용한 개발을 수행할 수 있습니다.
+배포까지 할 수 있는 역량을 키우기 위해 더욱 배우겠습니다.
+
+.</div><br>
 
 
-<h2><div align="center">🔨 Technology Stack</div></h2>
-  <div align="center">
+<h2><div>🔨 Technology Stack</div></h2>
+  <div>
       <br>
     <div >
         <div>
@@ -100,47 +106,6 @@
   </div>
 </div>
 <br>
-
-<h2><div align="center">🏆 Baekjoon solved rank</div></h2>
-
-<div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
-<!-- font-size 를 조절하면 원하는 크기로 글자를 조절할 수 있습니다.-->
-  <!-- Designed and developed in-house at Oreuda (https://oreuda.kr) -->
-  <!-- 불편 사항 및 문의는 tykimdream@gmail.com으로 보내주세요 -->
-  <div key="1">
-    <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=et2468 width="280" height="140" alt="baekjoon" />
-    <img src=http://mazandi.herokuapp.com/api?handle=et2468&theme=warm width="285" height="140" alt="solved" />
-  </div>
-
-<br>
-
-<h2><div align="center">🔎About Me</div></h2>
-
-<div align="center">  
-    <a href=mailto:csm66865407@gmail.com target="blank">
-        <img
-             src="https://img.shields.io/badge/Mail-6667AB?style=flat&logo=Gmail&logoColor=white"
-             alt="Mail"
-             />
-    </a>
-    <a href=https://velog.io/@codemaker99 target="_blank">
-        <img src=https://img.shields.io/badge/TechBlog-7FD2F5?style=flat&logo=Hoppscotch&logoColor=white&link=https://velog.io/@codemaker99/ alt="blog" />
-    </a>
-    <a href=https://steep-buckaroo-454.notion.site/8c8df4973c374210b15e40e180326ccc target="_blank">
-        <img src=https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://steep-buckaroo-454.notion.site/8c8df4973c374210b15e40e180326ccc/ alt="notion" />
-    </a>
-</div>
-<br>
-
-
-
-
-<h2><div align="center">📊 Github Stats</div></h2>
-
-![성민's GitHub stats](https://github-readme-stats.vercel.app/api?username=et2468)
-
-
-
 
 
 
