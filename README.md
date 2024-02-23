@@ -102,6 +102,9 @@
 </div>
 <br>
 
+<h2><div> ✍️ 학습정리</div></h2>
+[학습정리](https://github.com/et2468/Note-Programming)
+
 
 
 
