@@ -103,7 +103,8 @@
 <br>
 
 <h2><div> ✍️ 학습정리</div></h2>
-<p><a href="https://github.com/et2468/Note-Programming">학습정리</a></p>
+학습한 내용을 주로 아래의 github주소로 기록하고 있습니다.
+<p><a href="https://github.com/et2468/Note-Programming">Note-Programming</a></p>
 
 
 
