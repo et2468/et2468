@@ -102,10 +102,19 @@
 </div>
 <br>
 
-<h2><div> ✍️ 학습정리</div></h2>
+<h2><div> ✍️ 개인학습정리</div></h2>
 학습한 내용을 주로 아래의 github주소로 기록하고 있습니다.
 <p><a href="https://github.com/et2468/Note-Programming">Note-Programming</a></p>
 
+<br>
+<h2><div> ✍️ 개인 프로젝트</div></h2>
+개인적으로 진행한 프로젝트 목록입니다.
+<p><a href="https://github.com/et2468/Project-Survey">Project-Survey</a></p>
 
-
+<br>
+<h2><div> ✍️ 팀 프로젝트</div></h2>
+팀으로 진행한 프로젝트 목록입니다.
+<br>
+<p><a href="https://github.com/ssafy-picstory-project">ssafy-picstory-project</a></p>
+<p><a href="https://github.com/SignBridge">SignBridge</a></p>
 
