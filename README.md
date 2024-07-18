@@ -109,9 +109,23 @@
 <br>
 <h2><div> ✍️ 개인 프로젝트</div></h2>
 개인적으로 진행한 프로젝트 목록입니다.
-<p><a href="https://github.com/et2468/Project-Survey">Project-Survey</a></p>
+<ul> 
+    <li> 
+      <p><a href="https://github.com/et2468/Project-Survey">Project-Survey</a></p>
+      <ul>
+          <li>nest.js, TypeORM 환경에서 제작한 설문조사 웹사이트</li>
+      </ul>
+    </li>
+    <li>
+      <p><a href="https://github.com/et2468/pandas-pratice-in-jupyter">pandas-pratice-in-jupyter</a></p>
+      <ul>
+          <li>Jupyter Notebook 환경에서 pandas를 이용한 영화데이터 애드혹 분석</li>
+      </ul>
+    </li>
+</ul>
 
 <br>
+
 <h2><div> ✍️ 팀 프로젝트</div></h2>
 팀으로 진행한 프로젝트 목록입니다.
 <br>
