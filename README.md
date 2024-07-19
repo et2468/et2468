@@ -9,9 +9,6 @@
   <img src="https://img.shields.io/badge/INTP-ffead8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/미니멀-ffead8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/집돌이-ffead8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/생각많음-ffead8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/친해지면 말많음-ffead8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/사색가-ffead8?style=for-the-badge"/>
 
   
 
