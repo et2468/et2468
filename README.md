@@ -1,23 +1,9 @@
 <h2><div> 자기소개</div></h3> <br>
 <div>
-  안녕하세요. 데이터 엔지니어 직무를 희망하는 만 25세 최성민입니다. <br>
+  안녕하세요. 데이터 엔지니어 직무를 희망하는 최성민입니다. <br>
   경북대학교 생명공학전공을 졸업하였고, 이후 진로를 바꾸어 코딩 교육프로그램인 SSAFY에서 SW 교육을 받았습니다. <br>
   백엔드 개발자의 커리큘럼으로 학습을 하던 중 데이터 엔지니어 직무에 관심이 생겨 관련 학습을 진행중입니다. <br><br>
   
-
-  제 성격은요<br>
-  <img src="https://img.shields.io/badge/INTP-ffead8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/미니멀-ffead8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/집돌이-ffead8?style=for-the-badge"/>
-
-  
-
-  제 강점은요<br>
-  <img src="https://img.shields.io/badge/검색능력-ffead8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/응용력-ffead8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/메타인지-ffead8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/설명능력-ffead8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/통찰력-ffead8?style=for-the-badge"/>
   
 </div>
 <br>
