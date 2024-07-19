@@ -132,9 +132,9 @@ Below, I have listed my technical stack, learning summaries, personal projects, 
 <h2><div> Personal Projects </div></h2>
 <ul> 
     <li> 
-      <p><a href="https://github.com/et2468/Project-Survey">Project-Survey</a></p>
+      <p><a href="https://github.com/et2468/survey-platform-nestjs">survey-platform-nestjs</a></p>
       <ul>
-        <li>Survey Website Developed with NestJS and TypeORM</li>
+        <li>survey platform developed with nestjs and typeorm</li>
         <li>
           <img src="https://img.shields.io/badge/nestjs-ffead8?style=flat"/>
           <img src="https://img.shields.io/badge/typeorm-ffead8?style=flat"/>
@@ -145,7 +145,7 @@ Below, I have listed my technical stack, learning summaries, personal projects, 
     <li>
       <p><a href="https://github.com/et2468/movie-data-visualization-jupyter">movie-data-visualization-jupyter</a></p>
       <ul>
-        <li>Ad-hoc Analysis of Movie Data Using Pandas in a Jupyter Notebook Environment</li>
+        <li>ad-hoc analysis of movie data using pandas in a jupyter notebook</li>
         <li>
           <img src="https://img.shields.io/badge/jupyter-ffead8?style=flat"/>
           <img src="https://img.shields.io/badge/pandas-ffead8?style=flat"/>
