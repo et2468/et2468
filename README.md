@@ -113,13 +113,24 @@
     <li> 
       <p><a href="https://github.com/et2468/Project-Survey">Project-Survey</a></p>
       <ul>
-          <li>nest.js, TypeORM 환경에서 제작한 설문조사 웹사이트</li>
+        <li>NestJs, TypeORM 환경에서 제작한 설문조사 웹사이트</li>
+        <li>
+          <img src="https://img.shields.io/badge/nestjs-ffead8?style=flat"/>
+          <img src="https://img.shields.io/badge/typeorm-ffead8?style=flat"/>
+          <img src="https://img.shields.io/badge/postgresql-ffead8?style=flat"/>
+        </li>
       </ul>
     </li>
     <li>
       <p><a href="https://github.com/et2468/pandas-pratice-in-jupyter">pandas-pratice-in-jupyter</a></p>
       <ul>
-          <li>Jupyter Notebook 환경에서 pandas를 이용한 영화데이터 애드혹 분석</li>
+        <li>Jupyter Notebook 환경에서 pandas를 이용한 영화데이터 애드혹 분석</li>
+        <li>
+          <img src="https://img.shields.io/badge/jupyter-ffead8?style=flat"/>
+          <img src="https://img.shields.io/badge/pandas-ffead8?style=flat"/>
+          <img src="https://img.shields.io/badge/matplotlib-ffead8?style=flat"/>
+          <img src="https://img.shields.io/badge/seaborn-ffead8?style=flat"/>
+        </li>
       </ul>
     </li>
 </ul>
