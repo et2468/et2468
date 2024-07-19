@@ -107,23 +107,23 @@ Below, I have listed my technical stack, learning summaries, personal projects, 
     <p><a href="https://github.com/et2468/Note-Programming/tree/master/Note-ComputerArchitecture">ComputerArchitecture</a></p>
   </li>
   <li> 
-    <p><a href="Note-Programming/tree/master/Note-Database">Database</a></p>
+    <p><a href="https://github.com/et2468/Note-Programming/tree/master/Note-Database">Database</a></p>
   </li>
   <li> 
-    <p><a href="Note-Programming/tree/master/Note-OperatingSystem">OperatingSystem</a></p>
+    <p><a href="https://github.com/et2468/Note-Programming/tree/master/Note-OperatingSystem">OperatingSystem</a></p>
   </li>
   <li> 
-    <p><a href="Note-Programming/tree/master/Note-Network">Database</a></p>
+    <p><a href="https://github.com/et2468/Note-Programming/tree/master/Note-Network">Database</a></p>
   </li>
 
   <li> 
-    <p><a href="Note-Programming/tree/master/Note-Springboot">Springboot</a></p>
+    <p><a href="https://github.com/et2468/Note-Programming/tree/master/Note-Springboot">Springboot</a></p>
   </li>
   <li> 
-    <p><a href="Note-Programming/tree/master/Note-Django">Django</a></p>
+    <p><a href="https://github.com/et2468/Note-Programming/tree/master/Note-Django">Django</a></p>
   </li>
   <li> 
-    <p><a href="Note-Programming/tree/master/Note-JPA">Jpa</a></p>
+    <p><a href="https://github.com/et2468/Note-Programming/tree/master/Note-JPA">Jpa</a></p>
   </li>
   
 </ul>
