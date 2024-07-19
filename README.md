@@ -132,7 +132,7 @@ Below, I have listed my technical stack, learning summaries, personal projects, 
 <h2><div> Personal Projects </div></h2>
 <ul> 
     <li> 
-      <p><a href="https://github.com/et2468/survey-platform-nestjs">survey-platform-nestjs</a></p>
+      <p><a href="https://github.com/et2468/survey-platform">survey-platform</a></p>
       <ul>
         <li>survey platform developed with nestjs and typeorm</li>
         <li>
@@ -143,7 +143,7 @@ Below, I have listed my technical stack, learning summaries, personal projects, 
       </ul>
     </li>
     <li>
-      <p><a href="https://github.com/et2468/movie-data-visualization-jupyter">movie-data-visualization-jupyter</a></p>
+      <p><a href="https://github.com/et2468/ad-hoc-analysis-movie-data">ad-hoc-analysis-movie-data</a></p>
       <ul>
         <li>ad-hoc analysis of movie data using pandas in a jupyter notebook</li>
         <li>
