@@ -155,7 +155,7 @@ Below, I have listed my technical stack, learning summaries, personal projects, 
         <img src="https://img.shields.io/badge/typeorm-ffead8?style=flat"/>
         <img src="https://img.shields.io/badge/postgresql-ffead8?style=flat"/>
       </li>
-      <li>2023-11-17 (1 weeks)</li>
+      <li>2023-11-17 (1 week)</li>
     </ul>
   </li>
 </ul>
