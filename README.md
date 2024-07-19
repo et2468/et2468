@@ -1,20 +1,36 @@
-<h2><div> 🙋‍♂ Introduction</div></h3> <br>
+<h2><div> 자기소개</div></h3> <br>
 <div>
-안녕하세요. 문제를 정의하고 해결하는 것을 좋아하는 개발자 최성민입니다. <br>
-저는 비지니스와 요구사항을 이해하고, 이를 구현할 수 있는 프로그래밍 역량과 문제해결 능력을 가지고 있습니다. <br>
-또한 이를 설명하거나 문서를 작성할 때, 더 쉽고 직관적으로 이해를 시킬 수 있는 방법을 항상 고민하며 커뮤니케이션 역량을 계속해서 발전시키고 싶습니다. <br>
-회사에 입사하게 된다면, 우선 비지니스에 대해 완전히 이해하고, 이를 구현하기 위한 프로세스와 테이블 구조를 파악하며, 다져온 프로그래밍 역량으로 사용자의 요구사항을 충족시키겠습니다. <br>
-또한 청자를 생각하여 전달력을 높여 팀원에게는 같이 일하고 싶은 사람, 고객에게는 만족도를 높여줄 수 있는 사람이 되겠습니다.
-</div><br>
+  안녕하세요. 데이터 엔지니어 직무를 희망하는 만 25세 최성민입니다. <br>
+  경북대학교 생명공학전공을 졸업하였고, 이후 진로를 바꾸어 코딩 교육프로그램인 SSAFY에서 SW 교육을 받았습니다. <br>
+  백엔드 개발자의 커리큘럼으로 학습을 하던 중 데이터 엔지니어 직무에 관심이 생겨 관련 학습을 진행중입니다. <br><br>
+  
 
+  제 성격은요<br>
+  <img src="https://img.shields.io/badge/INTP-ffead8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/미니멀-ffead8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/집돌이-ffead8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/생각많음-ffead8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/친해지면 말많음-ffead8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/사색가-ffead8?style=for-the-badge"/>
 
-<h2><div>🔨 Technology Stack</div></h2>
+  
+
+  제 강점은요<br>
+  <img src="https://img.shields.io/badge/검색능력-ffead8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/응용력-ffead8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/메타인지-ffead8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/설명능력-ffead8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/통찰력-ffead8?style=for-the-badge"/>
+  
+</div>
+<br>
+아래에는 사용할 수 있는 기술스택, 개인학습정리, 개인프로젝트, 팀프로젝트 정보를 적어 보았습니다. 
+<h2><div> 기술스택</div></h2>
   <div>
-      <br>
     <div >
         <div>
             <div>
-            	사용언어
+              사용언어
             </div>
              <img
               key=283876.31851924106
@@ -102,12 +118,12 @@
 </div>
 <br>
 
-<h2><div> ✍️ 개인학습정리</div></h2>
+<h2><div> 개인 학습정리</div></h2>
 학습한 내용을 주로 아래의 github주소로 기록하고 있습니다.
 <p><a href="https://github.com/et2468/Note-Programming">Note-Programming</a></p>
 
 <br>
-<h2><div> ✍️ 개인 프로젝트</div></h2>
+<h2><div> 개인 프로젝트</div></h2>
 개인적으로 진행한 프로젝트 목록입니다.
 <ul> 
     <li> 
@@ -137,9 +153,8 @@
 
 <br>
 
-<h2><div> ✍️ 팀 프로젝트</div></h2>
+<h2><div> 팀 프로젝트</div></h2>
 팀으로 진행한 프로젝트 목록입니다.
 <br>
 <p><a href="https://github.com/ssafy-picstory-project">ssafy-picstory-project</a></p>
 <p><a href="https://github.com/SignBridge">SignBridge</a></p>
-
