@@ -12,7 +12,7 @@ Below, I have listed my technical stack, learning summaries, personal projects, 
     <div>
         <div>
             <div>
-              사용언어
+              Languages
             </div>
              <img
               key=283876.31851924106
@@ -29,7 +29,7 @@ Below, I have listed my technical stack, learning summaries, personal projects, 
         <br>
         <div>
             <div>
-                프레임워크
+                Frameworks
             </div>
             <img
               key=893828.5052125546
@@ -46,7 +46,7 @@ Below, I have listed my technical stack, learning summaries, personal projects, 
         <br>
         <div>
             <div>
-                데이터베이스
+                Databases
             </div>
             <img
               key=321344.6086252308
@@ -74,7 +74,7 @@ Below, I have listed my technical stack, learning summaries, personal projects, 
         <br>
         <div>
             <div>
-                협업 툴
+                Collaboration tools
             </div>
             <img
               key=476389.1611351678
@@ -101,7 +101,32 @@ Below, I have listed my technical stack, learning summaries, personal projects, 
 <br>
 
 <h2><div> Learning Summarys </div></h2>
-<p><a href="https://github.com/et2468/Note-Programming">Note-Programming</a></p>
+<ul> 
+  
+  <li> 
+    <p><a href="https://github.com/et2468/Note-Programming/tree/master/Note-ComputerArchitecture">ComputerArchitecture</a></p>
+  </li>
+  <li> 
+    <p><a href="Note-Programming/tree/master/Note-Database">Database</a></p>
+  </li>
+  <li> 
+    <p><a href="Note-Programming/tree/master/Note-OperatingSystem">OperatingSystem</a></p>
+  </li>
+  <li> 
+    <p><a href="Note-Programming/tree/master/Note-Network">Database</a></p>
+  </li>
+
+  <li> 
+    <p><a href="Note-Programming/tree/master/Note-Springboot">Springboot</a></p>
+  </li>
+  <li> 
+    <p><a href="Note-Programming/tree/master/Note-Django">Django</a></p>
+  </li>
+  <li> 
+    <p><a href="Note-Programming/tree/master/Note-JPA">Jpa</a></p>
+  </li>
+  
+</ul>
 
 <br>
 <h2><div> Personal Projects </div></h2>
