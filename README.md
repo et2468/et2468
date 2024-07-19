@@ -143,7 +143,7 @@ Below, I have listed my technical stack, learning summaries, personal projects, 
       </ul>
     </li>
     <li>
-      <p><a href="https://github.com/et2468/pandas-pratice-in-jupyter">pandas-pratice-in-jupyter</a></p>
+      <p><a href="https://github.com/et2468/movie-data-visualization-jupyter">movie-data-visualization-jupyter</a></p>
       <ul>
         <li>Ad-hoc Analysis of Movie Data Using Pandas in a Jupyter Notebook Environment</li>
         <li>
