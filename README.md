@@ -131,29 +131,33 @@ Below, I have listed my technical stack, learning summaries, personal projects, 
 <br>
 <h2><div> Personal Projects </div></h2>
 <ul> 
-    <li> 
-      <p><a href="https://github.com/et2468/survey-platform">survey-platform</a></p>
-      <ul>
-        <li>survey platform developed with nestjs and typeorm</li>
-        <li>
-          <img src="https://img.shields.io/badge/nestjs-ffead8?style=flat"/>
-          <img src="https://img.shields.io/badge/typeorm-ffead8?style=flat"/>
-          <img src="https://img.shields.io/badge/postgresql-ffead8?style=flat"/>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <p><a href="https://github.com/et2468/ad-hoc-analysis-movie-data">ad-hoc-analysis-movie-data</a></p>
-      <ul>
-        <li>ad-hoc analysis of movie data using pandas in a jupyter notebook</li>
-        <li>
-          <img src="https://img.shields.io/badge/jupyter-ffead8?style=flat"/>
-          <img src="https://img.shields.io/badge/pandas-ffead8?style=flat"/>
-          <img src="https://img.shields.io/badge/matplotlib-ffead8?style=flat"/>
-          <img src="https://img.shields.io/badge/seaborn-ffead8?style=flat"/>
-        </li>
-      </ul>
-    </li>
+  
+  <li>
+    <p><a href="https://github.com/et2468/ad-hoc-analysis-movie-data">ad-hoc-analysis-movie-data</a></p>
+    <ul>
+      <li>ad-hoc analysis of movie data using pandas in a jupyter notebook</li>
+      <li>
+        <img src="https://img.shields.io/badge/jupyter-ffead8?style=flat"/>
+        <img src="https://img.shields.io/badge/pandas-ffead8?style=flat"/>
+        <img src="https://img.shields.io/badge/matplotlib-ffead8?style=flat"/>
+        <img src="https://img.shields.io/badge/seaborn-ffead8?style=flat"/>
+      </li>
+      <li>2024-07-18 (1 day)</li>
+    </ul>
+  </li>
+
+  <li> 
+    <p><a href="https://github.com/et2468/survey-platform">survey-platform</a></p>
+    <ul>
+      <li>survey platform developed with nestjs and typeorm</li>
+      <li>
+        <img src="https://img.shields.io/badge/nestjs-ffead8?style=flat"/>
+        <img src="https://img.shields.io/badge/typeorm-ffead8?style=flat"/>
+        <img src="https://img.shields.io/badge/postgresql-ffead8?style=flat"/>
+      </li>
+      <li>2023-11-17 (1 weeks)</li>
+    </ul>
+  </li>
 </ul>
 
 <br>
