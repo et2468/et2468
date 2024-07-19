@@ -1,16 +1,15 @@
-<h2><div> 자기소개</div></h3> <br>
+<h2><div> Introduction </div></h3>
+
 <div>
-  안녕하세요. 데이터 엔지니어 직무를 희망하는 최성민입니다. <br>
-  경북대학교 생명공학전공을 졸업하였고, 이후 진로를 바꾸어 코딩 교육프로그램인 SSAFY에서 SW 교육을 받았습니다. <br>
-  백엔드 개발자의 커리큘럼으로 학습을 하던 중 데이터 엔지니어 직무에 관심이 생겨 관련 학습을 진행중입니다. <br><br>
-  
-  
+Hello, my name is Seongmin Choi. <br>
+
+I am aspiring to become a Data Engineer and have been pursuing related studies. 
 </div>
 <br>
-아래에는 사용할 수 있는 기술스택, 개인학습정리, 개인프로젝트, 팀프로젝트 정보를 적어 보았습니다. 
-<h2><div> 기술스택</div></h2>
+Below, I have listed my technical stack, learning summaries, personal projects, and team projects. 
+<h2><div> Technical Stack</div></h2>
   <div>
-    <div >
+    <div>
         <div>
             <div>
               사용언어
@@ -101,18 +100,16 @@
 </div>
 <br>
 
-<h2><div> 개인 학습정리</div></h2>
-학습한 내용을 주로 아래의 github주소로 기록하고 있습니다.
+<h2><div> Learning Summarys </div></h2>
 <p><a href="https://github.com/et2468/Note-Programming">Note-Programming</a></p>
 
 <br>
-<h2><div> 개인 프로젝트</div></h2>
-개인적으로 진행한 프로젝트 목록입니다.
+<h2><div> Personal Projects </div></h2>
 <ul> 
     <li> 
       <p><a href="https://github.com/et2468/Project-Survey">Project-Survey</a></p>
       <ul>
-        <li>NestJs, TypeORM 환경에서 제작한 설문조사 웹사이트</li>
+        <li>Survey Website Developed with NestJS and TypeORM</li>
         <li>
           <img src="https://img.shields.io/badge/nestjs-ffead8?style=flat"/>
           <img src="https://img.shields.io/badge/typeorm-ffead8?style=flat"/>
@@ -123,7 +120,7 @@
     <li>
       <p><a href="https://github.com/et2468/pandas-pratice-in-jupyter">pandas-pratice-in-jupyter</a></p>
       <ul>
-        <li>Jupyter Notebook 환경에서 pandas를 이용한 영화데이터 애드혹 분석</li>
+        <li>Ad-hoc Analysis of Movie Data Using Pandas in a Jupyter Notebook Environment</li>
         <li>
           <img src="https://img.shields.io/badge/jupyter-ffead8?style=flat"/>
           <img src="https://img.shields.io/badge/pandas-ffead8?style=flat"/>
@@ -136,8 +133,6 @@
 
 <br>
 
-<h2><div> 팀 프로젝트</div></h2>
-팀으로 진행한 프로젝트 목록입니다.
-<br>
+<h2><div> Team Projects </div></h2>
 <p><a href="https://github.com/ssafy-picstory-project">ssafy-picstory-project</a></p>
 <p><a href="https://github.com/SignBridge">SignBridge</a></p>
