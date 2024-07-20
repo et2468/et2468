@@ -113,7 +113,7 @@ Below, I have listed my technical stack, learning summaries, personal projects, 
     <p><a href="https://github.com/et2468/Note-Programming/tree/master/Note-OperatingSystem">OperatingSystem</a></p>
   </li>
   <li> 
-    <p><a href="https://github.com/et2468/Note-Programming/tree/master/Note-Network">Database</a></p>
+    <p><a href="https://github.com/et2468/Note-Programming/tree/master/Note-Network">Network</a></p>
   </li>
 
   <li> 
