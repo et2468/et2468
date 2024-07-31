@@ -142,7 +142,7 @@ Below, I have listed my technical stack, learning summaries, personal projects, 
         <img src="https://img.shields.io/badge/matplotlib-ffead8?style=flat"/>
         <img src="https://img.shields.io/badge/seaborn-ffead8?style=flat"/>
       </li>
-      <li>2024-07-18 (1 day)</li>
+      <li>2024.07.18 (1 day)</li>
     </ul>
   </li>
 
@@ -155,7 +155,7 @@ Below, I have listed my technical stack, learning summaries, personal projects, 
         <img src="https://img.shields.io/badge/typeorm-ffead8?style=flat"/>
         <img src="https://img.shields.io/badge/postgresql-ffead8?style=flat"/>
       </li>
-      <li>2023-11-17 (1 week)</li>
+      <li>2023.11.17 (1 week)</li>
     </ul>
   </li>
 </ul>
