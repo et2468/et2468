@@ -163,5 +163,24 @@ Below, I have listed my technical stack, learning summaries, personal projects, 
 <br>
 
 <h2><div> Team Projects </div></h2>
-<p><a href="https://github.com/ssafy-picstory-project">ssafy-picstory-project</a></p>
-<p><a href="https://github.com/SignBridge">SignBridge</a></p>
+
+- [PopPop](https://github.com/spoon-chopchop/poppop-readme)
+    - 친구와 재밌게 소통할 수 있는 워키토키 채팅앱
+    - <img src="https://img.shields.io/badge/SpringBoot-ffead8?style=flat"/>
+      <img src="https://img.shields.io/badge/ReactNative-ffead8?style=flat"/>
+    - 2023.04.10 (6 weeks)
+    
+- [Picstory](https://github.com/ssafy-picstory-project/picstory)
+    - 쉽고 재밌게 영어를 공부할 수 있는 웹 사이트
+    - <img src="https://img.shields.io/badge/Django-ffead8?style=flat"/>
+      <img src="https://img.shields.io/badge/ChatGPT-ffead8?style=flat"/>
+      <img src="https://img.shields.io/badge/Mysql-ffead8?style=flat"/>
+      <img src="https://img.shields.io/badge/Oauth-ffead8?style=flat"/>
+      <img src="https://img.shields.io/badge/React-ffead8?style=flat"/>
+    - 2023.02.20 (6 weeks)
+
+- [SignBridge](https://github.com/SignBridge/signbridge)
+    - 청각 장애인의 의사소통을 돕기 위한 화상 채팅 웹 서비스
+    - <img src="https://img.shields.io/badge/SpringBoot-ffead8?style=flat"/>
+      <img src="https://img.shields.io/badge/React-ffead8?style=flat"/>
+    - 2023.01.09 (6 weeks)
