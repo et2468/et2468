@@ -1,12 +1,19 @@
 <h2><div> Introduction </div></h3>
 
 <div>
-Hello, my name is Seongmin Choi. <br>
+  
+신입 BackEnd 개발자 최성민입니다.<br>
 
-I am aspiring to become a Data Engineer and have been pursuing related studies. 
+Java-SpringBoot, Python-Django로 웹 개발 실무 가능하며, RDB 설계 가능합니다.<br>
+
+요구사항을 충족하기 위한 DB설계와 BackEnd 로직을 구현만하는 것은 쉬운 일이지만,<br>
+
+효율적인 ERD와 로직을 설계하는 것은 여러가지 요인(가독성, 비즈니스, 성능)을 고려해야합니다.<br>
+
+저의 강점은 종합적인 사고능력이며, 이를 토대로 개발직무에서 문제해결을 위한 솔루션을 제시하겠습니다. <br>
+
 </div>
-<br>
-Below, I have listed my technical stack, learning summaries, personal projects, and team projects. 
+
 <h2><div> Technical Stack</div></h2>
   <div>
     <div>
@@ -101,36 +108,26 @@ Below, I have listed my technical stack, learning summaries, personal projects, 
 <br>
 
 <h2><div> Learning Summarys </div></h2>
-<ul> 
-  
-  <li> 
-    <p><a href="https://github.com/et2468/Note-Programming/tree/master/Note-ComputerArchitecture">ComputerArchitecture</a></p>
-  </li>
-  <li> 
-    <p><a href="https://github.com/et2468/Note-Programming/tree/master/Note-Database">Database</a></p>
-  </li>
-  <li> 
-    <p><a href="https://github.com/et2468/Note-Programming/tree/master/Note-OperatingSystem">OperatingSystem</a></p>
-  </li>
-  <li> 
-    <p><a href="https://github.com/et2468/Note-Programming/tree/master/Note-Network">Network</a></p>
-  </li>
 
-  <li> 
-    <p><a href="https://github.com/et2468/Note-Programming/tree/master/Note-Springboot">Springboot</a></p>
-  </li>
-  <li> 
-    <p><a href="https://github.com/et2468/Note-Programming/tree/master/Note-Django">Django</a></p>
-  </li>
-  <li> 
-    <p><a href="https://github.com/et2468/Note-Programming/tree/master/Note-JPA">Jpa</a></p>
-  </li>
-  
-</ul>
+학습한 내용을 주로 아래의 github주소로 기록하고 있습니다.
+<p><a href="https://github.com/et2468/Note-Programming">Note-Programming</a></p>
 
 <br>
 <h2><div> Personal Projects </div></h2>
 <ul> 
+  
+  <li>
+    <p><a href="https://github.com/et2468/Picstory">Picstory</a></p>
+    <ul>
+      <li>The AI app that turns your photos into captivating stories.</li>
+      <li>
+        <img src="https://img.shields.io/badge/flask-ffead8?style=flat"/>
+        <img src="https://img.shields.io/badge/vgg16-ffead8?style=flat"/>
+        <img src="https://img.shields.io/badge/gemini-ffead8?style=flat"/>
+      </li>
+      <li>2025.09.01 (2 weeks)</li>
+    </ul>
+  </li>
   
   <li>
     <p><a href="https://github.com/et2468/ad-hoc-analysis-movie-data">ad-hoc-analysis-movie-data</a></p>
