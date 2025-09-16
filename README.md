@@ -48,6 +48,16 @@
               style = "margin: 5px 5px;"
               src=https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white
               alt=""
+            /> <img
+              key=112977.92737826108
+              style = "margin: 5px 5px;"
+              src=https://img.shields.io/badge/nestjs-E0234E?style=flat&logo=nestjs&logoColor=white
+              alt=""
+            /> <img
+              key=112977.92737826108
+              style = "margin: 5px 5px;"
+              src=https://img.shields.io/badge/pyqt-0782D6?style=flat&logo=pyqt&logoColor=white
+              alt=""
             />
         </div>
         <br>
@@ -70,7 +80,7 @@
               style = "margin: 5px 5px;"
               src=https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white
               alt=""
-            />
+            /> 
             <img
               key=283876.31851924106
               style = "margin: 5px 5px;"
